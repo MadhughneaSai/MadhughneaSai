@@ -18,13 +18,7 @@
 - 💼 Previously worked at **JPMorgan** & **Central Indiana Corporate Partnership**
 
 - 🚀 Built **Order Management Service** with gRPC and **High-Performance Data Pipelines**
-
-- 💬 Ask me about **C++, Systems Programming, Chess Engines, Unit Testing, Backend Development**
-
-- 📄 **Research Publications**: Neural Networks for Diffusion Equations (SYNASC 2022, IDASCN 2022)
-
-- 📫 How to reach me **amadhughneasai@gmail.com**
-
+ 
 - 📱 Phone: **(930) 237-0706**
 
 <h3 align="left">🏆 Key Achievements:</h3>
