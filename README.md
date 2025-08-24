@@ -7,8 +7,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhughneasai&theme=onedark" alt="madhughneasai" /></a> </p>
-
 - 🔭 I'm currently working on **C++ Chess Engine with Bitboards & Magic Bitboards**
 
 - 🏢 **Software Engineer** at **Y Stem and Chess** (May 2025 - Present)
@@ -45,7 +43,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/madhughnea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhughnea" height="30" width="40" /></a>
-<a href="mailto:amadhughneasai@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
