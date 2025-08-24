@@ -94,13 +94,7 @@
 <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhughneasai&show_icons=true&locale=en&layout=compact&theme=dark" alt="madhughneasai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhughneasai&show_icons=true&locale=en&theme=dark" alt="madhughneasai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhughneasai&theme=dark" alt="madhughneasai" /></p>
 
 <h3 align="left">🎓 Education:</h3>
 
