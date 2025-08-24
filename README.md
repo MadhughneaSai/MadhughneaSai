@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Madhughnea Sai</h1>
-<h3 align="center">Software Engineer | Chess Engine Developer | Systems Programming Enthusiast</h3>
+<h3 align="center">C++ Software Engineer | Systems Programming Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MS+Computer+Science+%40+Indiana+University;Chess+Engine+Developer+with+95%25+Pruning+Efficiency;Backend+Systems+%26+gRPC+Specialist;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MS+Computer+Science+%40+Indiana+University;Chess+Engine+Developer+with+95%25+Pruning+Efficiency;Backend+Systems+%26+C+++Specialist;Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhughneasai&label=Profile%20views&color=0e75b6&style=flat" alt="madhughneasai" /> </p>
@@ -15,13 +15,11 @@
 
 - 🎓 **MS Computer Science** at **Indiana University Bloomington** (GPA: 3.7/4.0)
 
-- 🌱 I'm currently learning **gRPC Server Streaming, Advanced Chess AI Algorithms**
-
-- 💼 Previously worked at **Central Indiana Corporate Partnership** & **JPMorgan**
+- 💼 Previously worked at **JPMorgan** & **Central Indiana Corporate Partnership**
 
 - 🚀 Built **Order Management Service** with gRPC and **High-Performance Data Pipelines**
 
-- 💬 Ask me about **C++, Systems Programming, Chess Engines, gRPC, Backend Development**
+- 💬 Ask me about **C++, Systems Programming, Chess Engines, Unit Testing, Backend Development**
 
 - 📄 **Research Publications**: Neural Networks for Diffusion Equations (SYNASC 2022, IDASCN 2022)
 
@@ -32,15 +30,10 @@
 <h3 align="left">🏆 Key Achievements:</h3>
 
 - ⚡ **95% Branch Pruning Efficiency** in Chess Engine with 120M+ position search space
-- 🔧 **Optimized Pricing Model** from ~100ns to ~80ns at JPMorgan
+- 🔧 **Optimized Pricing Models** at JPMorgan
 - 📊 **50% Reduction** in manual data entry through automated scraping systems
 - 🗄️ **500k+ Records** managed in production MySQL databases
 
-<h3 align="left">🎯 Current Projects:</h3>
-
-- 🏁 **Chess Engine**: C++ implementation with iterative-deepening alpha-beta search
-- 🌐 **gRPC Order Service**: High-performance order management with streaming capabilities
-- 🔍 **Web Scraping Pipeline**: Selenium-based system with VPN rotation and CAPTCHA solving
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -97,14 +90,6 @@
 <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhughneasai&show_icons=true&locale=en&layout=compact&theme=dark" alt="madhughneasai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhughneasai&show_icons=true&locale=en&theme=dark" alt="madhughneasai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhughneasai&theme=dark" alt="madhughneasai" /></p>
-
 <h3 align="left">🎓 Education:</h3>
 
 - **Master's in Computer Science** | Indiana University Bloomington (2023-2025) | GPA: 3.7/4.0
@@ -115,9 +100,7 @@
 - **A Neural Network Based Approach to Find Solutions to Diffusion Equations** - SYNASC 2022
 - **Resolving Overfitting Issues Using Various Regularization Methods in Neural Networks** - IDASCN 2022
 
-<h3 align="left">💡 Fun Facts:</h3>
+<h3 align="left">💡 Fun Stuff I'm into:</h3>
 
-- 🏁 My chess engine can analyze 120M+ positions with 95% pruning efficiency
-- ⚡ I optimized a financial pricing model by 20ns at JPMorgan
-- 🤖 I've automated data collection systems processing thousands of records daily
-- 📖 I've published research papers on neural networks and machine learning
+-  Swing Dancing, Hiking & Indoor Plants.
+
