@@ -112,9 +112,6 @@
 - **A Neural Network Based Approach to Find Solutions to Diffusion Equations** - SYNASC 2022
 - **Resolving Overfitting Issues Using Various Regularization Methods in Neural Networks** - IDASCN 2022
 
-<h3 align="left">💡 Fun Facts:</h3>
+<h3 align="left">Fun stuff I'm info:</h3>
 
-- 🏁 My chess engine can analyze 120M+ positions with 95% pruning efficiency
-- ⚡ I optimized a financial pricing model by 20ns at JPMorgan
-- 🤖 I've automated data collection systems processing thousands of records daily
-- 📖 I've published research papers on neural networks and machine learning
+- Swing Dancing, hiking & Indoor plants.
