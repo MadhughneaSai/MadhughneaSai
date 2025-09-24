@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I'm currently working on **C++ Chess Engine with Bitboards & Magic Bitboards**
+- 🔭 I'm currently working on Chess Engine with Bitboards & Magic Bitboards**
 
 - 🏢 **Software Engineer** at **Y Stem and Chess** (May 2025 - Present)
 
