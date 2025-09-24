@@ -36,7 +36,7 @@
 
 <h3 align="left">🎯 Current Projects:</h3>
 
-- 🏁 **Chess Engine**: C++ implementation with iterative-deepening alpha-beta search
+- 🏁 **Chess Engine**: implementation with iterative-deepening alpha-beta search
 - 🌐 **gRPC Order Service**: High-performance order management with streaming capabilities
 - 🔍 **Web Scraping Pipeline**: Selenium-based system with VPN rotation and CAPTCHA solving
 
