@@ -2,76 +2,86 @@
 
 **Full-Stack Software Engineer | MS Computer Science @ Indiana University**
 
-Building scalable systems and shipping products that matter. Currently working on infrastructure optimization and full-stack applications.
+Building scalable systems and shipping products that matter. Currently working on cloud-native microservices and full-stack applications.
 
 ## 🚀 Current Work
 
-**Software Engineer @ YStem** (May 2025 - Present)
-- Re-architected backend from REST to GraphQL (Spring Boot + PostgreSQL), reducing data transfer by 40% and load times by 2.5s
-- Led migration of student portal serving 15,000 MAU from Angular to React, improving Lighthouse score from 68 to 90
-- Orchestrated AWS infrastructure with Terraform, consolidating 8 EC2 services to 3 ALB-routed services, saving $200/month
-- Revamped CI/CD with GitHub Actions and Docker, cutting deployment time by 66% (35→12 min)
-- Mentored 2 interns and reduced team onboarding from 2 weeks to 4 days
+**Senior Software Engineer @ Heartland Community Network** (May 2025 - Present)
+- Led full-stack migration of student portal (15,000 MAU) from Angular to React with Java 17/Spring Boot microservices, improving Lighthouse score from 68 to 92
+- Reduced API response times by 1.5s through Spring MVC/JPA/Hibernate optimization and N+1 resolution, decreasing payload sizes by 40%
+- Architected cloud-native microservices on AWS EKS, migrating from 8 EC2 instances to 3 containerized services, cutting infrastructure costs by 35%
+- Accelerated deployment cycles from 35 to 12 minutes via Jenkins CI/CD with JUnit automation, Codacy analysis, and Snyk scanning
+- Championed TDD practices and Agile methodologies, improving team velocity by 60%
 
 ## 💼 Experience
 
-**Software Developer @ Central Indiana Corporate Partnership** (Jul 2024 - Dec 2024)
-- Built microservices with TensorFlow and Node.js for PDF parsing and data extraction
-- Developed Selenium scraping pipeline processing 1000s of job postings daily, cutting manual entry by 50%
-- Leveraged AWS Lambda and S3, reducing system bottlenecks by 35%
-- Established Jenkins CI/CD pipeline, shrinking release cycles by 30%
+**Software Developer @ Ascend Indiana** (Jul 2024 - Dec 2024)
+- Developed Java Spring Boot microservices processing 1,000+ daily jobs using Spring Batch ETL with MySQL
+- Built RESTful APIs with async processing (@Async/CompletableFuture), reducing bottlenecks by 35%
+- Integrated React frontend with Spring Boot backend via RESTful APIs using Swagger/OpenAPI
+- Achieved 85% code coverage with JUnit 5/Mockito unit tests and Cucumber BDD acceptance tests
+- Enhanced Jenkins CI/CD pipeline with multi-stage Docker builds and automated regression testing
 
-**Software Analyst Intern @ JP Morgan** (Jun 2022 - Jul 2022)
-- Migrated 200+ critical tables using JavaSpark, Hadoop, and SQL with 95%+ accuracy
-- Implemented Kafka-based CDC pipeline for real-time change monitoring
-- Reduced pipeline failure rate by 15% through systematic debugging and testing
+**Software Developer @ IUB (Goodbody)** (Aug 2023 - Jun 2024)
+- Developed REST APIs using Java Spring Boot with MongoDB, serving 8,000 daily users with JWT auth and Redis caching
+- Reduced database load by 45% and improved API response times through caching optimization
+- Built internal React admin dashboard with Spring Boot backend for user management and analytics
+
+**Software Analyst Intern @ JPMorgan Chase & Co** (Jun 2022 - Jul 2022)
+- Assisted in migration of 200+ database tables using SQL and Java JDBC with 95% data integrity accuracy
+- Wrote JUnit test cases for data pipelines, improving test coverage by 15% with Log4j exception logging
 
 ## 🏆 Highlights
 
 - 🎓 MS Computer Science @ Indiana University (GPA: 3.7/4.0)
-- 🥇 Hackathon Winner: Built LLM-powered AI agent for backend operations
-- 📊 15,000 MAU: Production experience with real users at scale
-- ☁️ AWS Developer Associate Certified
-- 💰 $200/month infrastructure cost savings through optimization
+- 🥇 **Hackathon Winner:** Built LLM-powered AI agent for backend operations
+- 📊 **15,000 MAU:** Production experience with real users at scale
+- ☁️ **AWS Developer Associate Certified**
+- 💰 **35% infrastructure cost savings** through cloud optimization
 
 ## 🛠️ Tech Stack
 
-**Languages:** TypeScript, JavaScript, Python, Java, C/C++, SQL, Bash
+**Languages:** Java, JavaScript, TypeScript, Python, SQL, C/C++, C#, HTML/CSS, Bash
 
-**Backend:** Node.js, Spring Boot, GraphQL, REST APIs, Kafka
+**Backend:** Spring Boot, Spring MVC, Spring Batch, JPA/Hibernate, Node.js, Express.js, REST APIs, GraphQL, Kafka
 
-**Frontend:** React, Angular, HTML/CSS
+**Frontend:** React, Angular, Material-UI, Tailwind CSS
 
-**Databases:** PostgreSQL, MongoDB, MySQL
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis
 
-**Cloud & DevOps:** AWS (Lambda, S3, EC2), Docker, Terraform, GitHub Actions, Jenkins, CI/CD
+**Cloud & DevOps:** AWS (EKS, EC2), Docker, Kubernetes, Terraform, Jenkins, CI/CD, Git
 
-**Tools:** Git, JIRA, Postman, TensorFlow
+**Testing:** JUnit, Mockito, Jest, Cucumber BDD, TDD
+
+**Tools:** Swagger, Postman, JWT, OAuth 2.0, Firebase, JIRA, Linux/Unix
+
+**Generative AI:** LangChain, RAG, LLM Fine-tuning, Ollama, Hugging Face, NLP, VectorDB, Chroma
 
 ## 📌 Featured Projects
 
-### Real-time Market Prediction from Twitter
-Built real-time data pipeline using Tweepy and GPT-3 via LangChain, boosting sentiment classification accuracy by 25%. Developed visualization dashboard enabling 35% faster market trend predictions.
+### [Agentic AI for Backend Operations](https://github.com/madhughnea) 🏆 Hackathon Winner
+Launched an LLM-powered AI agent that interprets natural language commands for CRUD operations on a key-value store, boosting backend efficiency by 30% and cutting processing errors by 25% with slot-based extraction. Integrated Gradio interface for real-time tracking and auditing.
 
-**Tech:** Python, Tweepy, GPT-3, LangChain, AWS
+**Tech:** Python, LangChain, LlaMa, NLP, AWS, Gradio
 
-### Agentic AI for Backend Operations (Hackathon Winner)
-Developed LLM-powered AI agent interpreting natural language commands for CRUD operations, boosting backend efficiency by 30% and cutting processing errors by 25%.
+### [Real-time Fraud Checker](https://github.com/madhughnea)
+Built real-time fraud detection system using Java Spring Boot and Kafka Streams to detect multi-channel transaction anomalies across ATM, online, and merchant channels. Designed event-driven microservices architecture with velocity-based fraud rules and REST APIs for high-volume transactions.
 
-**Tech:** Python, LangChain, LlaMa, NLP, AWS
+**Tech:** Java, Spring Boot, Kafka Streams, Docker, Kafka UI
 
-### Secure Banking Platform
-Delivered full-stack banking solution with Angular frontend, Spring Boot services, PostgreSQL DB with role-based access control and JWT authentication. Implemented OAuth 2.0 via Firebase.
+### Full Stack Secure Banking Platform
+Delivered secure full-stack banking solution with Angular frontend, Spring Boot services, and PostgreSQL in Docker deployments. Implemented role-based access control, stateless JWT authentication, and OAuth 2.0 via Google Sign-In (Firebase).
 
-**Tech:** Angular, Spring Boot, PostgreSQL, Docker, Firebase
+**Tech:** Angular, Spring Boot, PostgreSQL, Docker, Firebase, OAuth 2.0, JWT
 
 ## 📫 Let's Connect
 
-- 📧 Email: amadhughneasai@gmail.com
-- 📱 Phone: (930) 237-0706
-- 💼 [LinkedIn](https://linkedin.com/in/madhughnea)
-- 📍 Based in Indiana, US
+[![Email](https://img.shields.io/badge/Email-amadhughneasai%40gmail.com-red?style=flat-square&logo=gmail)](mailto:amadhughneasai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-madhughnea-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/madhughnea)
+[![GitHub](https://img.shields.io/badge/GitHub-madhughnea-black?style=flat-square&logo=github)](https://github.com/madhughnea)
+
+📱 (930) 237-0706 | 📍 Indiana, US
 
 ---
 
-*Open to full-time Software Engineering opportunities. Interested in full-stack development, distributed systems, and building products at scale.*
+*Open to full-time Software Engineering opportunities. Interested in full-stack development, distributed systems, microservices architecture, and building products at scale.*
