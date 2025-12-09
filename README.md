@@ -2,75 +2,71 @@
 
 **Full-Stack Software Engineer | MS Computer Science @ Indiana University**
 
-Building scalable systems and shipping products that matter. Currently working on cloud-native microservices and full-stack applications.
+Building scalable systems and shipping products that matter. Currently working on cloud-native applications, real-time systems, and full-stack development.
 
 ## 🚀 Current Work
 
-**Senior Software Engineer @ Heartland Community Network** (May 2025 - Present)
-- Led full-stack migration of student portal (15,000 MAU) from Angular to React with Java 17/Spring Boot microservices, improving Lighthouse score from 68 to 92
-- Reduced API response times by 1.5s through Spring MVC/JPA/Hibernate optimization and N+1 resolution, decreasing payload sizes by 40%
-- Architected cloud-native microservices on AWS EKS, migrating from 8 EC2 instances to 3 containerized services, cutting infrastructure costs by 35%
-- Accelerated deployment cycles from 35 to 12 minutes via Jenkins CI/CD with JUnit automation, Codacy analysis, and Snyk scanning
-- Championed TDD practices and Agile methodologies, improving team velocity by 60%
+**Consultant / Sr. Software Engineer @ Heartland Community Network** (May 2025 - Present)
+- Built React dashboards with Recharts visuals and dynamic filtering, reducing manual report generation by 60% for 500+ daily users
+- Developed REST APIs in Node.js with MongoDB for vehicle maintenance tracking with severity-based prioritization for fleet managers
+- Implemented WebSocket-based real-time driver tracking in Go, supporting 50+ concurrent sessions with auto-reconnection
+- Provisioned AWS S3 via Terraform for report storage with pre-signed URLs; added Grafana monitoring and Slack alerts for API health
+- Configured GitLab CI/CD pipeline with Jest testing, ESLint enforcement, and Docker, automating previous 3-4 hour manual process
 
 ## 💼 Experience
 
 **Software Developer @ Ascend Indiana** (Jul 2024 - Dec 2024)
-- Developed Java Spring Boot microservices processing 1,000+ daily jobs using Spring Batch ETL with MySQL
-- Built RESTful APIs with async processing (@Async/CompletableFuture), reducing bottlenecks by 35%
-- Integrated React frontend with Spring Boot backend via RESTful APIs using Swagger/OpenAPI
-- Achieved 85% code coverage with JUnit 5/Mockito unit tests and Cucumber BDD acceptance tests
-- Enhanced Jenkins CI/CD pipeline with multi-stage Docker builds and automated regression testing
+- Built Python/Selenium job-scraping workflow with VPN rotation, automating 1,000+ postings/day and eliminating manual sourcing
+- Implemented async AWS Lambda workflows with optimized S3 handoffs, resolving bottlenecks under senior architectural guidance
+- Delivered full-stack enhancements across React UI flows and REST APIs, speeding up job-board refreshes and reducing UI latency
+- Improved CI/CD reliability by containerizing services with Docker and adding Jenkins pipeline unit tests for critical modules
 
-**Software Developer @ IUB (Goodbody)** (Aug 2023 - Jun 2024)
-- Developed REST APIs using Java Spring Boot with MongoDB, serving 8,000 daily users with JWT auth and Redis caching
-- Reduced database load by 45% and improved API response times through caching optimization
-- Built internal React admin dashboard with Spring Boot backend for user management and analytics
+**Software Developer Intern @ JPMorgan Chase & Co** (Jun 2022 - Jul 2022)
+- Assisted in migrating 200+ critical tables with Java Spark, Hadoop, and SQL, auto-fixing column drift for 95%+ clean transfers
+- Reduced Java Spark pipeline failures by debugging recurring exceptions, adding unit tests and runbooks for operational support
 
-**Software Analyst Intern @ JPMorgan Chase & Co** (Jun 2022 - Jul 2022)
-- Assisted in migration of 200+ database tables using SQL and Java JDBC with 95% data integrity accuracy
-- Wrote JUnit test cases for data pipelines, improving test coverage by 15% with Log4j exception logging
+## 🎓 Education
+
+- **MS Computer Science** @ Indiana University Bloomington (2023 - 2025) | GPA: 3.7/4.0
+- **B.Tech Computer Science** @ Vellore Institute of Technology (2019 - 2023) | GPA: 8.7/10
 
 ## 🏆 Highlights
 
-- 🎓 MS Computer Science @ Indiana University (GPA: 3.7/4.0)
 - 🥇 **Hackathon Winner:** Built LLM-powered AI agent for backend operations
-- 📊 **15,000 MAU:** Production experience with real users at scale
 - ☁️ **AWS Developer Associate Certified**
-- 💰 **35% infrastructure cost savings** through cloud optimization
+- 📊 **500+ Daily Users:** Production dashboards serving real users at scale
+- ⚡ **60% Efficiency Gain:** Automated manual reporting workflows
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, JavaScript, TypeScript, Python, SQL, C/C++, C#, HTML/CSS, Bash
+**Languages:** Java, TypeScript, JavaScript, Python, Go, SQL, HTML/CSS
 
-**Backend:** Spring Boot, Spring MVC, Spring Batch, JPA/Hibernate, Node.js, Express.js, REST APIs, GraphQL, Kafka
+**Backend:** Node.js, Spring Boot, Express.js, REST APIs, Kafka, WebSockets
 
-**Frontend:** React, Angular, Material-UI, Tailwind CSS
+**Frontend:** React, Angular, Recharts, Material-UI, Tailwind CSS
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+**Databases:** MongoDB, PostgreSQL
 
-**Cloud & DevOps:** AWS (EKS, EC2), Docker, Kubernetes, Terraform, Jenkins, CI/CD, Git
+**Cloud & DevOps:** AWS (Lambda, S3, EC2), Docker, Terraform, GitLab CI/CD, Jenkins, Grafana
 
-**Testing:** JUnit, Mockito, Jest, Cucumber BDD, TDD
+**Testing & Tools:** Jest, JUnit, Selenium, Postman, JWT, OAuth 2.0
 
-**Tools:** Swagger, Postman, JWT, OAuth 2.0, Firebase, JIRA, Linux/Unix
-
-**Generative AI:** LangChain, RAG, LLM Fine-tuning, Ollama, Hugging Face, NLP, VectorDB, Chroma
+**Generative AI:** LangChain, RAG, LLM Fine-tuning, Ollama, Hugging Face, NLP, VectorDB
 
 ## 📌 Featured Projects
 
 ### [Agentic AI for Backend Operations](https://github.com/madhughnea) 🏆 Hackathon Winner
-Launched an LLM-powered AI agent that interprets natural language commands for CRUD operations on a key-value store, boosting backend efficiency by 30% and cutting processing errors by 25% with slot-based extraction. Integrated Gradio interface for real-time tracking and auditing.
+Built LLM-powered agent using Llama 3.2 to convert natural language commands into JSON for MongoDB CRUD operations. Implemented slot-based intent classifier with validation loop for handling incomplete or ambiguous inputs. Developed Gradio UI with chat history and audit logging, boosting efficiency by 30% and reducing processing errors by 25%.
 
-**Tech:** Python, LangChain, LlaMa, NLP, AWS, Gradio
+**Tech:** Python, LangChain, Llama 3.2, NLP, MongoDB, Gradio
 
 ### [Real-time Fraud Checker](https://github.com/madhughnea)
-Built real-time fraud detection system using Java Spring Boot and Kafka Streams to detect multi-channel transaction anomalies across ATM, online, and merchant channels. Designed event-driven microservices architecture with velocity-based fraud rules and REST APIs for high-volume transactions.
+Built real-time fraud detection with Java, Spring Boot, and Kafka Streams using velocity-based rules across multi-channel transactions. Implemented event-driven microservices with Kafka for transaction ingestion and suspicious activity alerting. Designed REST APIs with Dockerized deployment, reducing fraud detection latency from batch processing to under 1 second.
 
-**Tech:** Java, Spring Boot, Kafka Streams, Docker, Kafka UI
+**Tech:** Java, Spring Boot, Kafka Streams, Docker, REST APIs
 
-### Full Stack Secure Banking Platform
-Delivered secure full-stack banking solution with Angular frontend, Spring Boot services, and PostgreSQL in Docker deployments. Implemented role-based access control, stateless JWT authentication, and OAuth 2.0 via Google Sign-In (Firebase).
+### [Full Stack Secure Banking Platform](https://github.com/madhughnea)
+Built secure banking app with Angular frontend, Spring Boot services, and PostgreSQL in Docker deployments. Implemented RBAC with JWT authentication, cutting unauthorized access by 35%. Added OAuth 2.0 Google Sign-In via Firebase, reducing onboarding time by 30% and increasing signup completion.
 
 **Tech:** Angular, Spring Boot, PostgreSQL, Docker, Firebase, OAuth 2.0, JWT
 
@@ -80,8 +76,8 @@ Delivered secure full-stack banking solution with Angular frontend, Spring Boot 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-madhughnea-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/madhughnea)
 [![GitHub](https://img.shields.io/badge/GitHub-madhughnea-black?style=flat-square&logo=github)](https://github.com/madhughnea)
 
-📱 (930) 237-0706 | 📍 Indiana, US
+📱 (930) 237-0706 | 📍 Indiana, USA
 
 ---
 
-*Open to full-time Software Engineering opportunities. Interested in full-stack development, distributed systems, microservices architecture, and building products at scale.*
+*Open to full-time Software Engineering opportunities. Interested in full-stack development, distributed systems, real-time applications, and building products at scale.*
