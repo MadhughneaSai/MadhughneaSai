@@ -8,9 +8,9 @@ Building scalable systems and shipping products that matter. Currently working o
 
 **Consultant / Sr. Software Engineer @ Heartland Community Network** (May 2025 - Present)
 - Built React dashboards with Recharts visuals and dynamic filtering, reducing manual report generation by 60% for 500+ daily users
-- Developed REST APIs in Node.js with MongoDB for vehicle maintenance tracking with severity-based prioritization for fleet managers
+- Developed REST APIs with MongoDB for vehicle maintenance tracking with severity-based prioritization for fleet managers
 - Implemented WebSocket-based real-time driver tracking in Go, supporting 50+ concurrent sessions with auto-reconnection
-- Provisioned AWS S3 via Terraform for report storage with pre-signed URLs; added Grafana monitoring and Slack alerts for API health
+- Provisioned AWS S3 for report storage with pre-signed URLs; added Grafana monitoring and Slack alerts for API health
 - Configured GitLab CI/CD pipeline with Jest testing, ESLint enforcement, and Docker, automating previous 3-4 hour manual process
 
 ## 💼 Experience
