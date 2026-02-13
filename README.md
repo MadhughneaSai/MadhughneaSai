@@ -6,7 +6,7 @@ Building scalable systems and shipping products that matter. Currently working o
 
 ## 💼 Experience
 
-- **Consultant / Sr. Software Engineer** @ Heartland Community Network (May 2025 - Present)
+- **Consultant / Software Engineer** @ Heartland Community Network (May 2025 - Present)
 - **Software Developer** @ Ascend Indiana (Jul 2024 - Dec 2024)
 - **Software Developer Intern** @ JPMorgan Chase & Co (Jun 2022 - Jul 2022)
 
